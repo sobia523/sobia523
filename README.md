@@ -1,77 +1,82 @@
 <div align="center">
 
-# Sobia Aleem
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sobia%20Aleem&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Agentic%20AI%20Engineer&descSize=18&descAlignY=60&descColor=c9d1d9" />
 
-### Full Stack Web Developer · Agentic AI Engineer
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sobia-aleem)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobiaaleem55@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sobia523&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sobia523)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+intelligent+web+experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Python;Agentic+AI+%2B+Full+Stack+Development)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sobia-aleem)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobiaaleem55@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sobia523)
+![Profile Views](https://komarev.com/ghpvc/?username=sobia523&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
+<br/>
 
-## About Me
+## ✦ About
 
-I'm a passionate **Full Stack Web Developer** and **Agentic AI Engineer** who loves building intelligent, scalable, and user-centric digital experiences. I specialize in modern web technologies and AI-driven application development — from sleek front-end interfaces to robust back-end systems and autonomous AI agents.
+I craft intelligent, scalable digital experiences at the intersection of modern web development and AI engineering. From pixel-perfect interfaces to autonomous AI agents — I build things that matter.
 
-- 🔭 &nbsp;Currently building **AI-powered full stack applications**
-- 🌱 &nbsp;Exploring **Agentic AI**, **LLM integrations**, and **multi-agent systems**
-- 💬 &nbsp;Ask me about **React, Next.js, TypeScript, Node.js, or AI Engineering**
-- 📫 &nbsp;Reach me at **sobiaaleem55@gmail.com**
+- 🚀 &nbsp;Currently building AI-powered full stack products
+- 🧠 &nbsp;Focused on LLM integrations and multi-agent systems
+- 💡 &nbsp;Passionate about clean UI, robust APIs, and intelligent automation
+- 📬 &nbsp;Reach me at **sobiaaleem55@gmail.com**
 
----
+<br/>
 
-## Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## GitHub Stats
+## ✦ Technologies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sobia523&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sobia523&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobia523&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobia523&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" height="170"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sobia523&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sobia523&theme=midnight-purple&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" height="170"/>
 
 </div>
 
----
+<br/>
 
-## Let's Connect
+## ✦ Activity
 
 <div align="center">
 
-I'm always open to collaborating on interesting projects, AI experiments, or just a good tech conversation.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sobia-aleem)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobiaaleem55@gmail.com)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sobia523&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <sub>✨ Building the future, one commit at a time.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+
 </div>
