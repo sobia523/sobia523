@@ -18,11 +18,11 @@
 
 ## ✦ About
 
-I craft intelligent, scalable digital experiences at the intersection of modern web development and AI engineering. From pixel-perfect interfaces to autonomous AI agents — I build things that matter.
+I'm a Full Stack Web Developer who loves building modern web applications with a touch of AI. I enjoy turning ideas into real, working products — from clean and responsive interfaces to smart features powered by AI.
 
-- 🚀 &nbsp;Currently building AI-powered full stack products
-- 🧠 &nbsp;Focused on LLM integrations and multi-agent systems
-- 💡 &nbsp;Passionate about clean UI, robust APIs, and intelligent automation
+- 🌐 &nbsp;Building full stack web apps with modern technologies
+- 🤖 &nbsp;Integrating AI features into real-world applications
+- 🎨 &nbsp;Passionate about great UI and smooth user experiences
 - 📬 &nbsp;Reach me at **sobiaaleem55@gmail.com**
 
 <br/>
